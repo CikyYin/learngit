@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 This is a test.
 This is a repair bug.
 This is a stash test.
+This is learngit clone.
